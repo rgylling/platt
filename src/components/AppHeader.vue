@@ -5,16 +5,16 @@
         alt="Platt Electric Logo"
         />
             <ul class="actions">
-                <li>
+                <li class="action-button">
                     <img src="../assets/ic/white/ic_search_icon.png" />
                 </li>
-                <li>
+                <li class="action-button">
                     <img src="../assets/ic/white/ic_shopping_cart.png" />
                 </li>
-                <li>
+                <li class="action-button">
                     <img src="../assets/ic/white/ic_person.png" />
                 </li>
-                <li>
+                <li class="action-button">
                     <img src="../assets/ic/white/ic_menu.png" />
                 </li>
             </ul>
@@ -62,4 +62,7 @@ export default {
         background-origin: content-box;
         outline: none;
     }
+	.action-button {
+		margin: 0 10px;
+	}
 </style>
