@@ -1,6 +1,10 @@
 <template>
     <div class="nav">
-        <h1>hey</h1>
+        <ul>
+            <li>
+                <a>Shop all catergories</a>
+            </li>
+        </ul>
     </div>
 </template>
 

@@ -6,11 +6,10 @@
         />
             <ul class="actions">
                 <li>
-                    <img src="../assets/ic/white/ic_search.png" />
+                    <img src="../assets/ic/white/ic_search_icon.png" />
                 </li>
                 <li>
                     <img src="../assets/ic/white/ic_shopping_cart.png" />
-
                 </li>
                 <li>
                     <img src="../assets/ic/white/ic_person.png" />
