@@ -8,7 +8,7 @@
 		/>
 		<ul
 		v-show="isOpen"
-		 class="autocomplete-results">
+		class="autocomplete-results">
 			<li
 			v-for="(result, i) in results"
 			:key="i"
@@ -23,7 +23,6 @@
 <script>
 import request from 'superagent'
 
-const hey = 'yo'
 	export default {
 		name: 'AppSearch',
 		mounted() {
