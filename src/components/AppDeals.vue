@@ -1,16 +1,19 @@
 <template>
-    <div class="deals">
-		<h1>Todals Deals</h1>
-    </div>
+	<img class="deals-image desktop-only" src="../assets/panel/deal.png">
 </template>
 
 <script>
-export default {
-  name: 'AppDeals'
-}
+	export default {
+		name: 'AppDeals'
+	}
 </script>
 
 <style lang="scss">
+	@import '../styles/common.scss';
 
+	.deals-image {
+		width: calc(50% - 10px);
+		box-shadow: $box-shadow;
+	}
 
 </style>

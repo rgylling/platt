@@ -1,0 +1,19 @@
+
+// Mobile
+@media screen and (max-width: $mobile-size) {
+	.mobile-only {
+		display: unset;
+	}
+	.desktop-only {
+		display: none;
+	}
+}
+// Mobile and up
+@media screen and (min-width: $mobile-size) {
+	.mobile-only {
+		display: none;
+	}
+	.desktop-only {
+		display: unset;
+	}
+}
