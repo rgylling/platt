@@ -17,5 +17,5 @@ npm run build
 
 ## Things I would like to improve upon
 
-*vendor-prefixes
-*improving seo by using alts
+* The CSS needs vendor prefixing
+* improving seo by using alts
