@@ -15,7 +15,7 @@ npm run dev
 npm run build
 ```
 
-## Things I would continue doing
+## Things I would like to improve upon
 
-vendor-prefixes
-imporving seo by using alts
+*vendor-prefixes
+*improving seo by using alts
