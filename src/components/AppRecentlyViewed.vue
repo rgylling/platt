@@ -49,10 +49,6 @@
 		float: right;
 	}
 
-	.recently-viewed-items {
-
-	}
-
 	.item-container {
 		width: 30%;
 		text-align: center;

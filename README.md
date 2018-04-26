@@ -1,4 +1,4 @@
-# platt
+# Platt Electric Supply
 
 > A Vue.js project
 

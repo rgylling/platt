@@ -95,7 +95,6 @@
 		justify-content: center;
 	}
 
-
 	@media screen and (max-width: $mobile-size) {
 		.nav-item {
 			flex: 100%;
@@ -122,6 +121,5 @@
 			border-right: none;
 			border-left: none;
 		}
-
 	}
 </style>
